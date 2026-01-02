@@ -13,4 +13,4 @@ This repository contains basic Python programs and exercises for practice.
 To build strong Python fundamentals for software development and machine learning.
 
 ## Author
-Sahil Sharma
+Sahil Sharma(from nalunga)
