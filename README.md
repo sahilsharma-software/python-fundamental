@@ -1,6 +1,7 @@
 # Python Fundamentals
 
 This repository contains basic Python programs and exercises for practice.
+Currently shifting my focus towards machine learning .
 
 ## Topics Covered
 - Variables and Data Types
