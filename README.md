@@ -3,6 +3,7 @@
 This repository contains basic Python programs and exercises for practice.
 Currently shifting my focus towards machine learning .
 Now focus on llms.
+Now working with llms
 
 ## Topics Covered
 - Variables and Data Types
