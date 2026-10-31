@@ -11,6 +11,7 @@ Now working with llms
 - Loops
 - Functions
 - Lists, Tuples, Dictionaries
+- dictiionaries also covered in this
 
 ## Purpose
 To build strong Python fundamentals for software development and machine learning.
