@@ -14,6 +14,8 @@ Also makes project inn the Ai based resume analysis and Viva preparation
 - Functions
 - Lists, Tuples, Dictionaries
 - dictiionaries also covered in this
+- also covered numpy and pandas in this series
+  
 
 ## Purpose
 To build strong Python fundamentals for software development and machine learning.
